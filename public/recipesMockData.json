@@ -1,0 +1,20 @@
+[{
+	"id": 1,
+	"name": "Recipe 1",
+	"image": "https://cdn.shopify.com/s/files/1/2130/0231/products/PZ0004.jpg?v=1670454152&width=1100"
+},
+{
+	"id": 2,
+	"name": "Recipe 2",
+	"image": "https://cdn.shopify.com/s/files/1/2130/0231/products/PZ0009.jpg?v=1670448178&width=1100"
+},
+{
+	"id": 3,
+	"name": "Recipe 3",
+	"image": "https://cdn.shopify.com/s/files/1/2130/0231/products/PZ0001.jpg?v=1670458328&width=1100"
+},
+{
+    "id": 4,
+	"name": "Recipe 4",
+	"image": "https://cdn.shopify.com/s/files/1/2130/0231/products/PZ0007.jpg?v=1670443389&width=1100"
+}]

@@ -1,0 +1,24 @@
+[{
+	"id": 1,
+	"name": "CHOCOLATE TRUFFLE",
+	"price": "549",
+	"image": "https://cdn.shopify.com/s/files/1/2130/0231/products/PZ0004.jpg?v=1670454152&width=1100"
+},
+{
+	"id": 2,
+	"name": "CARAMEL BUTTERSCOTCH",
+	"price": "398",
+	"image": "https://cdn.shopify.com/s/files/1/2130/0231/products/PZ0009.jpg?v=1670448178&width=1100"
+},
+{
+	"id": 3,
+	"name": "EXOTIC PINEAPPLE",
+	"price": "799",
+	"image": "https://cdn.shopify.com/s/files/1/2130/0231/products/PZ0001.jpg?v=1670458328&width=1100"
+},
+{
+    "id": 4,
+	"name": "REFRESHING MANGO CAKE",
+	"price": "699",
+	"image": "https://cdn.shopify.com/s/files/1/2130/0231/products/PZ0007.jpg?v=1670443389&width=1100"
+}]

@@ -1,0 +1,21 @@
+[{
+	"id": 1,
+	"name": "Cake Class 1",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1wlPwozaVhxHFLy20olJkFlmHwVGbMZE6Fg&usqp=CAU"
+},
+{
+	"id": 2,
+	"name": "Cake Class 2",
+	"image": "https://www.rosalindmillercakes.com/wp-content/uploads/2020/03/180914-RosalindMiller-5790-scaled.jpg"
+},
+{
+	"id": 3,
+	"name": "Cake Class 3",
+	
+	"image": "https://static.wixstatic.com/media/044f47_f60e63e336034fc49e5d21a1c1f82a4c~mv2.jpg/v1/fill/w_560,h_434,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/044f47_f60e63e336034fc49e5d21a1c1f82a4c~mv2.jpg"
+},
+{
+    "id": 4,
+	"name": "Cake Class 4",
+	"image": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_800/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1543404279%2Fo4uy1wmptdka0btkjpu1.jpg"
+}]
